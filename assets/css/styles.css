@@ -1,0 +1,24 @@
+@import url("./reset.css");
+
+header {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 169, 221, 0) 100%), url(/assets/images/banner.png);  
+   /* height: 605px;  */
+}
+
+.logo {
+    width: 268px;
+    height: 268px;
+    padding: 27px 10px;
+}
+
+.banner-content {
+    width: 510px;
+    padding: 56px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;     
+}
+
+.banner-content button {
+    padding: 19px 91px;
+}
