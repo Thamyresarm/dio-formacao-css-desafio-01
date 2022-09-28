@@ -2,13 +2,7 @@
 
 header {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 169, 221, 0) 100%), url(/assets/images/banner.png);  
-   /* height: 605px;  */
-}
-
-.logo {
-    width: 268px;
-    height: 268px;
-    padding: 27px 10px;
+    border: 1px solid rgba(51, 168, 219, 1); 
 }
 
 .banner-content {
@@ -16,9 +10,116 @@ header {
     padding: 56px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;     
+    text-align: center; 
+       
 }
+
+.logo {
+    width: 268px;
+    height: 268px;
+    padding: 27px 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin: 16px;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 47px;
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+}
+
+.banner-content p {
+    font-size: 20px;
+    line-height: 23px;       
+}
+
 
 .banner-content button {
     padding: 19px 91px;
+    margin-top: 24px;
+    font-weight: 900;
+    text-transform: uppercase;
+    border-color: rgba(21, 114, 183, 1);
+    letter-spacing: 0.21em;
+    color: rgba(49, 168, 221, 1);
+}
+
+
+main {
+    background: #000000;
+    border: 1px solid rgba(51, 168, 219, 1);
+    color: rgba(255, 255, 255, 1);  
+}
+
+#course-content {
+    padding: 118px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+
+}
+
+h2 {
+    margin: 16px;
+    font-size: 32px;
+    line-height: 38px;
+    color: rgba(51, 168, 219, 1);
+    text-transform: uppercase;
+    letter-spacing: 0.19em;
+}
+
+.module {
+    width: 535px;
+    background: #252525e0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    border: 1px solid #33A8DB;
+    padding: 16px 127px;
+    box-shadow: inset -2px 6px 4px rgba(0, 0, 0, 0.4);  
+    border-radius: 57px;
+}
+
+ span {
+    color: rgba(51, 168, 219, 1)
+}
+
+#transform-world {
+    background-image:url("/assets/images/woman-code.png");
+    border: 1px solid rgba(51, 168, 219, 1); 
+    height: 960px;
+}
+
+
+#professional-challenges {
+    width: 800px;
+    margin: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+
+}
+
+#professional-challenges, p {
+    margin-top: 32px;    
+}
+
+footer {
+    padding: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    background:  #000000;
+    border: 1px solid #33A8DB;
+    color: rgba(255, 255, 255, 1); 
+}
+
+a {
+    text-decoration: none;
 }
