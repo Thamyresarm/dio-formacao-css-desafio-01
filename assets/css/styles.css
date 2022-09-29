@@ -9,6 +9,7 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("/assets/images/banner.png");
     background-size: cover;
     background-repeat: no-repeat;
+    border-color: rgba(21, 114, 183, 1);
 }
 
 .banner-content {
@@ -61,7 +62,6 @@ h1 {
 
 main {
     border: 1px solid rgba(51, 168, 219, 1);
-
 }
 
 #course-content {
