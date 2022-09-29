@@ -69,12 +69,12 @@ main {
     width: 1100px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;      
-    border-color: rgba(21, 114, 183, 1);
+    text-align: center;     
+   
 }
 
 #course-content p {
-    margin-top: 16px;    
+    margin-top: 1px solid 16px;    
 }
 
 h2 {
