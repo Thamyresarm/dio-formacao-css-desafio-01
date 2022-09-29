@@ -4,8 +4,9 @@ header {
     -webkit-background-clip: text;
     background: #000000;
     background-size: cover;    
-    background-image: url("/assets/images/banner.png"), linear-gradient(180deg, rgba(51, 168, 219, 0.2) 100%, rgba(51, 168, 219, 0.6) 50%, rgba(51, 168, 219, 0.5) 100%); 
+    background-image: url("/assets/images/banner.png"), repeating-linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
     border: 1px solid rgba(51, 168, 219, 1); 
+    color: rgba(255, 255, 255, 1); 
 }
 
 .banner-content {
@@ -50,7 +51,8 @@ h1 {
     text-transform: uppercase;
     border-color: rgba(21, 114, 183, 1);
     letter-spacing: 0.21em;
-    color: rgba(49, 168, 221, 1);    
+    color: rgba(49, 168, 221, 1);   
+    background: transparent; 
 }
 
 
