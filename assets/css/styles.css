@@ -1,13 +1,16 @@
 @import url("./reset.css");
 
-header {
-    background-image: url("/assets/images/banner.png");
-    /* background: url("/assets/images/banner.png"), repeating-linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);*/
-    color: rgba(255, 255, 255, 1); 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size:  cover;
+body {
+    background-color: black;
+    color: rgba(255, 255, 255, 1);
+  }
+
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("/assets/images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .banner-content {
@@ -59,10 +62,8 @@ h1 {
 
 
 main {
-    background: #000000;
     border-top: 1px solid rgba(51, 168, 219, 0.5);
     border-bottom: 1px solid rgba(51, 168, 219, 0.5);
-    color: rgba(255, 255, 255, 1);  
 }
 
 #course-content {
@@ -110,8 +111,7 @@ h2 {
     border-bottom: 1px solid rgba(51, 168, 219, 0.5);
     height: 560px;
     background-attachment: fixed;
-    background-clip: text;
-    -webkit-background-clip: text;
+
 }
 
 
@@ -132,8 +132,6 @@ footer {
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
-    background:  #000000;   
-    color: rgba(255, 255, 255, 1);
     background-image: linear-gradient(180deg, rgba(51, 168, 219, 0) 0%, rgba(51, 168, 219, 0.2) 99.99%, rgba(51, 168, 219, 0.2) 100%); 
 }
 
