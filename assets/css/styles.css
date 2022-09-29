@@ -1,13 +1,13 @@
 @import url("./reset.css");
 
 header {
-    background: url("/assets/images/banner.png") no-repeat center center fixed;
+    background: url("/assets/images/banner.png");
     /* background: url("/assets/images/banner.png"), repeating-linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);*/
     color: rgba(255, 255, 255, 1); 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size:  cover;
 }
 
 .banner-content {
