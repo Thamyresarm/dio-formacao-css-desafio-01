@@ -1,4 +1,16 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Formação CSS - Curso DIO
+
+Consta nesse repositório a réplica da solução do desafio realizado por mim. Ainda não está completo, mas estou muito orgulhosa de mim, pois por incrivel que pareça eu consegui chegar até aqui sem olhar nem UMA linha da solução e vou tentar finalizar com esse objetivo!
+
+> Estou apanhando do background-image 😢
+
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado até o momento. Logo abaixo está o original.
+
+![image](https://user-images.githubusercontent.com/24790794/193067835-e76023d2-75ea-4608-8aad-8caf4fcbb0d1.png)
+
+> # Proposta do desafio
+
+## Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
