@@ -10,15 +10,16 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     border-color: rgba(21, 114, 183, 1);
+    border-bottom: 1px solid rgba(51, 168, 219, 1);   
 }
 
 .banner-content {
-    width: 712px;
     padding: 56px;
+    width: 720px;
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
-    border-color: rgba(21, 114, 183, 1);       
+
 }
 
 .logo {
@@ -59,19 +60,12 @@ h1 {
     background: transparent; 
 }
 
-
-main {
-    border: 1px solid rgba(51, 168, 219, 1);
-}
-
 #course-content {
-    padding: 110px 150px;
-    width: 1100px;
+    width: 790px;
+    padding: 110px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;    
-    border-top: 1px solid rgba(51, 168, 219, 1); 
-    border-bottom: 1px solid rgba(51, 168, 219, 1);   
+    text-align: center;
 }
 
 #course-content p {
@@ -80,6 +74,7 @@ main {
 
 h2 {
     font-size: 32px;
+    margin-bottom: 16px;
     line-height: 38px;
     color: rgba(51, 168, 219, 1);
     text-transform: uppercase;
@@ -115,13 +110,11 @@ h2 {
 
 
 #professional-challenges {
-    padding: 90px 0px;
-    width: 1100px;
+    width: 1000px;
+    padding: 90px;
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
-    border-top: 1px solid rgba(51, 168, 219, 1); 
-    border-bottom: 1px solid rgba(51, 168, 219, 1); 
 }
 
 #professional-challenges img{
@@ -130,10 +123,9 @@ h2 {
 
 footer {
     padding: 54px;
-    margin-left: auto;
-    margin-right: auto;
     text-align: center; 
     background-image: linear-gradient(180deg, rgba(51, 168, 219, 0) 0%, rgba(51, 168, 219, 0.2) 99.99%, rgba(51, 168, 219, 0.2) 100%); 
+    border-top: 1px solid rgba(51, 168, 219, 1); 
 }
 
 a {
