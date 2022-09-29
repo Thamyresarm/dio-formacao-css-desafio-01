@@ -1,15 +1,16 @@
 @import url("./reset.css");
 
 header {
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 169, 221, 0) 100%), url(/assets/images/banner.png);  
-    background-size: cover;
+    
+    background: #000000;
+    background-size: cover;    
+    background-image: url(/assets/images/banner.png), linear-gradient(180deg, rgba(51, 168, 219, 0.2) 100%, rgba(51, 168, 219, 0.6) 50%, rgba(51, 168, 219, 0.5) 100%); 
     border: 1px solid rgba(51, 168, 219, 1); 
-
 }
 
 .banner-content {
-    width: 510px;
-    padding: 56px;
+    width: 600px;
+    margin: 56px;
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
@@ -24,10 +25,10 @@ header {
     margin-right: auto;
 }
 
-h1 {
-    margin: 16px;
+h1 {    
+    padding: 16PX;
     font-weight: 900;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 47px;
     background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
     -webkit-background-clip: text;
@@ -42,13 +43,14 @@ h1 {
 
 
 .banner-content button {
-    padding: 19px 91px;
+    padding: 19px 45px;
     margin-top: 24px;
     font-weight: 900;
+    font-size: 16px;
     text-transform: uppercase;
     border-color: rgba(21, 114, 183, 1);
     letter-spacing: 0.21em;
-    color: rgba(49, 168, 221, 1);
+    color: rgba(49, 168, 221, 1);    
 }
 
 
@@ -59,7 +61,7 @@ main {
 }
 
 #course-content {
-    padding: 118px;
+    padding: 110px 150px;
     width: 1100px;
     margin-left: auto;
     margin-right: auto;
@@ -67,8 +69,11 @@ main {
 
 }
 
+#course-content p {
+    margin-top: 16px;    
+}
+
 h2 {
-    margin: 16px;
     font-size: 32px;
     line-height: 38px;
     color: rgba(51, 168, 219, 1);
@@ -83,9 +88,10 @@ h2 {
     margin-right: auto;
     margin-top: 24px;
     border: 1px solid #33A8DB;
-    padding: 16px 127px;
+    padding: 16px;
     box-shadow: inset -2px 6px 4px rgba(0, 0, 0, 0.4);  
     border-radius: 57px;
+    white-space: nowrap;
 }
 
  span {
@@ -96,7 +102,7 @@ h2 {
     background-image:url("/assets/images/woman-code.png");
     background-size: cover;
     border: 1px solid rgba(51, 168, 219, 1); 
-    height: 550px;
+    height: 560px;
     background-attachment: fixed;
 }
 
@@ -107,23 +113,24 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
-
 }
 
-#professional-challenges, p {
-    margin-top: 32px;    
+#professional-challenges img{
+    padding: 50px;
 }
 
 footer {
-    padding: 32px;
+    padding: 54px;
     margin-left: auto;
     margin-right: auto;
     text-align: center; 
     background:  #000000;
     border: 1px solid #33A8DB;
-    color: rgba(255, 255, 255, 1); 
+    color: rgba(255, 255, 255, 1);
+    background-image: linear-gradient(180deg, rgba(51, 168, 219, 0) 0%, rgba(51, 168, 219, 0.2) 99.99%, rgba(51, 168, 219, 0.2) 100%); 
 }
 
 a {
     text-decoration: none;
+    color: rgba(51, 168, 219, 1);
 }
