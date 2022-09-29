@@ -9,8 +9,6 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("/assets/images/banner.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-clip: text;
-    -webkit-background-clip: text;
 }
 
 .banner-content {
@@ -105,13 +103,13 @@ h2 {
 }
 
 #transform-world {
-    background-image:url("/assets/images/woman-code.png");
+    background-image: url("/assets/images/woman-code.png");
     background-size: cover;
     border-top: 1px solid rgba(51, 168, 219, 0.5); 
     border-bottom: 1px solid rgba(51, 168, 219, 0.5);
     height: 560px;
     background-attachment: fixed;
-
+    padding: 200px;
 }
 
 
