@@ -1,10 +1,10 @@
 @import url("./reset.css");
 
 header {
-    
+    -webkit-background-clip: text;
     background: #000000;
     background-size: cover;    
-    background-image: url(/assets/images/banner.png), linear-gradient(180deg, rgba(51, 168, 219, 0.2) 100%, rgba(51, 168, 219, 0.6) 50%, rgba(51, 168, 219, 0.5) 100%); 
+    background-image: url("/assets/images/banner.png"), linear-gradient(180deg, rgba(51, 168, 219, 0.2) 100%, rgba(51, 168, 219, 0.6) 50%, rgba(51, 168, 219, 0.5) 100%); 
     border: 1px solid rgba(51, 168, 219, 1); 
 }
 
@@ -99,6 +99,7 @@ h2 {
 }
 
 #transform-world {
+    -webkit-background-clip: text;
     background-image:url("/assets/images/woman-code.png");
     background-size: cover;
     border: 1px solid rgba(51, 168, 219, 1); 
