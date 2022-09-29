@@ -6,7 +6,7 @@ Consta nesse repositório a réplica da solução do desafio realizado por mim. 
 
 [Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado até o momento. Logo abaixo está o original.
 
-![image](https://user-images.githubusercontent.com/24790794/193070997-f43bfe3c-9622-4711-84cc-4b49269c9159.png)
+![image](https://user-images.githubusercontent.com/24790794/193071138-9d0ef791-8fdc-45de-ab19-0921e8218e9a.png)
 
 > # Proposta do desafio
 
