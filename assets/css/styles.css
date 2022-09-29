@@ -60,8 +60,8 @@ h1 {
 
 
 main {
-    border-top: 1px solid rgba(51, 168, 219, 0.5);
-    border-bottom: 1px solid rgba(51, 168, 219, 0.5);
+    border-top: 1px solid rgba(51, 168, 219, 1);
+    border-bottom: 1px solid rgba(51, 168, 219, 1);
 }
 
 #course-content {
@@ -105,8 +105,8 @@ h2 {
 #transform-world {
     background-image: url("/assets/images/woman-code.png");
     background-size: cover;
-    border-top: 1px solid rgba(51, 168, 219, 0.5); 
-    border-bottom: 1px solid rgba(51, 168, 219, 0.5);
+    border-top: 1px solid rgba(51, 168, 219, 1); 
+    border-bottom: 1px solid rgba(51, 168, 219, 1);
     height: 560px;
     background-attachment: fixed;
     padding: 200px;
