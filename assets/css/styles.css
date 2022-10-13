@@ -108,6 +108,14 @@ h2 {
     padding: 200px;
 }
 
+#transform-world p {
+    font-weight: 900;
+    font-size: 2.5rem;
+    text-transform: lowercase;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+  }
+
 
 #professional-challenges {
     width: 1000px;
@@ -128,7 +136,8 @@ footer {
     border-top: 1px solid rgba(51, 168, 219, 1); 
 }
 
-a {
+footer a {
     text-decoration: none;
+    font-weight: bold;
     color: rgba(51, 168, 219, 1);
 }
