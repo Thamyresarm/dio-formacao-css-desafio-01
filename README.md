@@ -4,7 +4,7 @@ Consta nesse repositório a réplica da solução do desafio realizado por mim. 
 
 > Com a ajuda da Mi consegui finalizar!! 🥰 
 
-[Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado. Logo abaixo está o original.
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado. Logo abaixo está a proposta do desafio original.
 
 ![image](https://user-images.githubusercontent.com/24790794/195651946-9e028748-2cdf-4aa3-bc10-75308711955f.png)
 
