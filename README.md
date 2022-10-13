@@ -2,11 +2,12 @@
 
 Consta nesse repositório a réplica da solução do desafio realizado por mim. Ainda não está completo, mas estou muito orgulhosa de mim, pois por incrivel que pareça eu consegui chegar até aqui sem olhar nem UMA linha da solução e vou tentar finalizar com esse objetivo!
 
-> Estou apanhando do background-image 😢
+> Com a ajuda da Mi consegui finalizar!! 🥰 
 
-[Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado até o momento. Logo abaixo está o original.
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-css-desafio-01/) para ver o meu resultado. Logo abaixo está o original.
 
-![image](https://user-images.githubusercontent.com/24790794/193101171-1738ab01-d7f5-4bc6-9586-5e2961c4e86f.png)
+![image](![image](https://user-images.githubusercontent.com/24790794/195651829-24633b73-a7b0-4c2c-8c4c-f579f40d0e2e.png)
+)
 
 > # Proposta do desafio
 
