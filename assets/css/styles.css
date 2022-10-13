@@ -6,7 +6,7 @@ body {
   }
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../images/banner.png");
+    background: -webkit-linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../images/banner.png");
     background-size: cover;
     background-repeat: no-repeat;
     border-color: rgba(21, 114, 183, 1);
